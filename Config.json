@@ -1,1 +1,1 @@
-{ "magic" : false }
+{ "magic" : true, "magic_version": 10 }
